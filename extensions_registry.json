@@ -9,9 +9,8 @@
         "path": "widgets/greeting",
         "entry": "index.html"
       }
-    }
-  ]
-}{
+    },
+  {
       "title": "Countries Angular",
       "description": "A widget built with Angular and the Widget SDK.",
       "category": "Demo",
